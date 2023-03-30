@@ -1,3 +1,5 @@
 audioset-train-local
 data/temp_audio
-
+data/SAMPLESWAP
+data/musdb18
+notebooks/.ipynb_checkpoints
