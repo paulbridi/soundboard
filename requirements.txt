@@ -133,3 +133,7 @@ websocket-client==1.5.1
 wrapt==1.15.0
 y-py==0.5.9
 ypy-websocket==0.8.2
+
+### Manual additions 
+flask-cors
+flask
