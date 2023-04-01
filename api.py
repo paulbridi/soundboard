@@ -1,18 +1,18 @@
-from flask import Flask, request
-from flask_cors import CORS
+from flask import Flask, request, Response
+from flask_cors import CORS, cross_origin
 
-app = Flask(__name__)
-CORS(app, methods=['GET','POST'], origins=['http://localhost:3000'])
+api = Flask(__name__)
+cors = CORS(api, resources={r"/*": {"origins": "*"}})
+api.config['CORS_HEADERS'] = 'Content-Type'
 
 # API endpoint to take video input, return video (format of what's return tbd)
-@app.route('/api/video', methods=['POST'])
+@api.route('/video', methods=['POST','GET'])
+@cross_origin()
 def video():
-    video_file = request.files.get('file')
+    if request.method == "POST":
+        video = request.files['webcam'].stream.read()
+        return Response(video, mimetype='video/x-matroska')
     
-    # Pass video file to Python model and return the segmented data
-    
-    return {'name': 'John', 'age': 30}
-
 if __name__ == '__main__':
-    app.run(debug=True)
+    api.run(debug=True)
 
