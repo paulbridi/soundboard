@@ -4,3 +4,7 @@ data/SAMPLESWAP
 data/musdb18/*
 notebooks/.ipynb_checkpoints
 !data/musdb18/README.md
+packages/__pycache__/
+__pycache__/
+spliced_video
+uploaded_video
