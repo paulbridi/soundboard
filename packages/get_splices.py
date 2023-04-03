@@ -9,9 +9,8 @@ def get_splices():
         
         clips = []
         clips_dir = 'spliced_video/'
-        print(os.listdir(clips_dir)) # add this line
+        print(os.listdir(clips_dir)) 
         
-        print('Hi')
         # Loop through each .mp4 clip in directory
         for filename in os.listdir(clips_dir):
             if filename.endswith('.mp4'):
