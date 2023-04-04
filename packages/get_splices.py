@@ -24,8 +24,8 @@ def get_splices():
                 clips.append(video_clip)
                 
         # Return the video clips as the response
-        return clips, 200
+        return clips
     
     # Return exception error if try fails
     except Exception as e:
-        return str(e), 500
+        return str(e)
