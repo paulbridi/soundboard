@@ -1,10 +1,10 @@
 index,mid,display_name,class_3,class_2,class_1
 0,/m/09x0r,Speech,Speech,Human Voice,Human Sounds
-1,/m/05zppz,"Male speech, man speaking",Speech,Human Voice,Human Sounds
-2,/m/02zsn,"Female speech, woman speaking",Speech,Human Voice,Human Sounds
-3,/m/0ytgt,"Child speech, kid speaking",Speech,Human Voice,Human Sounds
+1,/m/05zppz,Male speech man speaking,Speech,Human Voice,Human Sounds
+2,/m/02zsn,Female speech woman speaking,Speech,Human Voice,Human Sounds
+3,/m/0ytgt,Child speech kid speaking,Speech,Human Voice,Human Sounds
 4,/m/01h8n0,Conversation,Speech,Human Voice,Human Sounds
-5,/m/02qldy,"Narration, monologue",Speech,Human Voice,Human Sounds
+5,/m/02qldy,Narration monologue,Speech,Human Voice,Human Sounds
 6,/m/0261r1,Babbling,Speech,Human Voice,Human Sounds
 7,/m/0brhx,Speech synthesizer,Speech,Human Voice,Human Sounds
 8,/m/07p6fty,Shout,Shout,Human Voice,Human Sounds
@@ -20,11 +20,11 @@ index,mid,display_name,class_3,class_2,class_1
 18,/m/07r660_,Giggle,Laughter,Human Voice,Human Sounds
 19,/m/07s04w4,Snicker,Laughter,Human Voice,Human Sounds
 20,/m/07sq110,Belly laugh,Laughter,Human Voice,Human Sounds
-21,/m/07rgt08,"Chuckle, chortle",Laughter,Human Voice,Human Sounds
-22,/m/0463cq4,"Crying, sobbing","Crying, sobbing",Human Voice,Human Sounds
-23,/t/dd00002,"Baby cry, infant cry","Crying, sobbing",Human Voice,Human Sounds
-24,/m/07qz6j3,Whimper,"Crying, sobbing",Human Voice,Human Sounds
-25,/m/07qw_06,"Wail, moan","Wail, moan",Human Voice,Human Sounds
+21,/m/07rgt08,Chuckle chortle,Laughter,Human Voice,Human Sounds
+22,/m/0463cq4,Crying sobbing,Crying sobbing,Human Voice,Human Sounds
+23,/t/dd00002,Baby cry infant cry,Crying sobbing,Human Voice,Human Sounds
+24,/m/07qz6j3,Whimper,Crying sobbing,Human Voice,Human Sounds
+25,/m/07qw_06,Wail moan,Wail moan,Human Voice,Human Sounds
 26,/m/07plz5l,Sigh,Sigh,Human Voice,Human Sounds
 27,/m/015lz1,Singing,Singing,Human Voice,Human Sounds
 28,/m/0l14jd,Choir,Singing,Human Voice,Human Sounds
@@ -52,85 +52,85 @@ index,mid,display_name,class_3,class_2,class_1
 50,/m/07ppn3j,Sniff,Sniff,Respiratory sounds,Human Sounds
 51,/m/06h7j,Run,Run,Human Locomotion,Human Sounds
 52,/m/07qv_x_,Shuffle,Shuffle,Human Locomotion,Human Sounds
-53,/m/07pbtc8,"Walk, footsteps","Walk, footsteps",Human Locomotion,Human Sounds
-54,/m/03cczk,"Chewing, mastication","Chewing, mastication",Digestive,Human Sounds
+53,/m/07pbtc8,Walk footsteps,Walk footsteps,Human Locomotion,Human Sounds
+54,/m/03cczk,Chewing mastication,Chewing mastication,Digestive,Human Sounds
 55,/m/07pdhp0,Biting,Biting,Digestive,Human Sounds
 56,/m/0939n_,Gargling,Gargling,Digestive,Human Sounds
 57,/m/01g90h,Stomach rumble,Stomach rumble,Digestive,Human Sounds
-58,/m/03q5_w,"Burping, eructation","Burping, eructation",Digestive,Human Sounds
+58,/m/03q5_w,Burping eructation,Burping eructation,Digestive,Human Sounds
 59,/m/02p3nc,Hiccup,Hiccup,Digestive,Human Sounds
 60,/m/02_nn,Fart,Fart,Digestive,Human Sounds
 61,/m/0k65p,Hands,Hands,Hands,Human Sounds
 62,/m/025_jnm,Finger snapping,Finger snapping,Hands,Human Sounds
 63,/m/0l15bq,Clapping,Clapping,Hands,Human Sounds
-64,/m/01jg02,"Heart sounds, heartbeat","Heart sounds, heartbeat","Heart sounds, heartbeat",Human Sounds
-65,/m/01jg1z,Heart murmur,Heart murmur,"Heart sounds, heartbeat",Human Sounds
+64,/m/01jg02,Heart sounds heartbeat,Heart sounds heartbeat,Heart sounds heartbeat,Human Sounds
+65,/m/01jg1z,Heart murmur,Heart murmur,Heart sounds heartbeat,Human Sounds
 66,/m/053hz1,Cheering,Cheering,Human group actions,Human Sounds
 67,/m/028ght,Applause,Applause,Human group actions,Human Sounds
 68,/m/07rkbfh,Chatter,Chatter,Human group actions,Human Sounds
 69,/m/03qtwd,Crowd,Crowd,Human group actions,Human Sounds
-70,/m/07qfr4h,"Hubbub, speech noise, speech babble","Hubbub, speech noise, speech babble",Human group actions,Human Sounds
+70,/m/07qfr4h,Hubbub speech noise speech babble,Hubbub speech noise speech babble,Human group actions,Human Sounds
 71,/t/dd00013,Children playing,Children playing,Human group actions,Human Sounds
 72,/m/0jbk,Animal,Animal,Animal,Animal
-73,/m/068hy,"Domestic animals, pets","Domestic animals, pets","Domestic animals, pets",Animal
-74,/m/0bt9lr,Dog,Dog,"Domestic animals, pets",Animal
-75,/m/05tny_,Bark,Dog,"Domestic animals, pets",Animal
-76,/m/07r_k2n,Yip,Dog,"Domestic animals, pets",Animal
-77,/m/07qf0zm,Howl,Dog,"Domestic animals, pets",Animal
-78,/m/07rc7d9,Bow-wow,Dog,"Domestic animals, pets",Animal
-79,/m/0ghcn6,Growling,Dog,"Domestic animals, pets",Animal
-80,/t/dd00136,Whimper (dog),Dog,"Domestic animals, pets",Animal
-81,/m/01yrx,Cat,Cat,"Domestic animals, pets",Animal
-82,/m/02yds9,Purr,Cat,"Domestic animals, pets",Animal
-83,/m/07qrkrw,Meow,Cat,"Domestic animals, pets",Animal
-84,/m/07rjwbb,Hiss,Cat,"Domestic animals, pets",Animal
-85,/m/07r81j2,Caterwaul,Cat,"Domestic animals, pets",Animal
-86,/m/0ch8v,"Livestock, farm animals, working animals","Livestock, farm animals, working animals","Livestock, farm animals, working animals",Animal
-87,/m/03k3r,Horse,Horse,"Livestock, farm animals, working animals",Animal
-88,/m/07rv9rh,Clip-clop,Horse,"Livestock, farm animals, working animals",Animal
-89,/m/07q5rw0,"Neigh, whinny",Horse,"Livestock, farm animals, working animals",Animal
-90,/m/01xq0k1,"Cattle, bovinae","Cattle, bovinae","Livestock, farm animals, working animals",Animal
-91,/m/07rpkh9,Moo,"Cattle, bovinae","Livestock, farm animals, working animals",Animal
-92,/m/0239kh,Cowbell,"Cattle, bovinae","Livestock, farm animals, working animals",Animal
-93,/m/068zj,Pig,Pig,"Livestock, farm animals, working animals",Animal
-94,/t/dd00018,Oink,Pig,"Livestock, farm animals, working animals",Animal
-95,/m/03fwl,Goat,Goat,"Livestock, farm animals, working animals",Animal
-96,/m/07q0h5t,Bleat,Goat,"Livestock, farm animals, working animals",Animal
-97,/m/07bgp,Sheep,Sheep,"Livestock, farm animals, working animals",Animal
-98,/m/025rv6n,Fowl,Fowl,"Livestock, farm animals, working animals",Animal
-99,/m/09b5t,"Chicken, rooster","Chicken, rooster","Livestock, farm animals, working animals",Animal
-100,/m/07st89h,Cluck,"Chicken, rooster","Livestock, farm animals, working animals",Animal
-101,/m/07qn5dc,"Crowing, cock-a-doodle-doo","Chicken, rooster","Livestock, farm animals, working animals",Animal
-102,/m/01rd7k,Turkey,Turkey,"Livestock, farm animals, working animals",Animal
-103,/m/07svc2k,Gobble,Turkey,"Livestock, farm animals, working animals",Animal
-104,/m/09ddx,Duck,Duck,"Livestock, farm animals, working animals",Animal
-105,/m/07qdb04,Quack,Duck,"Livestock, farm animals, working animals",Animal
-106,/m/0dbvp,Goose,Goose,"Livestock, farm animals, working animals",Animal
-107,/m/07qwf61,Honk,Goose,"Livestock, farm animals, working animals",Animal
+73,/m/068hy,Domestic animals pets,Domestic animals pets,Domestic animals pets,Animal
+74,/m/0bt9lr,Dog,Dog,Domestic animals pets,Animal
+75,/m/05tny_,Bark,Dog,Domestic animals pets,Animal
+76,/m/07r_k2n,Yip,Dog,Domestic animals pets,Animal
+77,/m/07qf0zm,Howl,Dog,Domestic animals pets,Animal
+78,/m/07rc7d9,Bow-wow,Dog,Domestic animals pets,Animal
+79,/m/0ghcn6,Growling,Dog,Domestic animals pets,Animal
+80,/t/dd00136,Whimper (dog),Dog,Domestic animals pets,Animal
+81,/m/01yrx,Cat,Cat,Domestic animals pets,Animal
+82,/m/02yds9,Purr,Cat,Domestic animals pets,Animal
+83,/m/07qrkrw,Meow,Cat,Domestic animals pets,Animal
+84,/m/07rjwbb,Hiss,Cat,Domestic animals pets,Animal
+85,/m/07r81j2,Caterwaul,Cat,Domestic animals pets,Animal
+86,/m/0ch8v,Livestock farm animals working animals,Livestock farm animals working animals,Livestock farm animals working animals,Animal
+87,/m/03k3r,Horse,Horse,Livestock farm animals working animals,Animal
+88,/m/07rv9rh,Clip-clop,Horse,Livestock farm animals working animals,Animal
+89,/m/07q5rw0,Neigh whinny,Horse,Livestock farm animals working animals,Animal
+90,/m/01xq0k1,Cattle bovinae,Cattle bovinae,Livestock farm animals working animals,Animal
+91,/m/07rpkh9,Moo,Cattle bovinae,Livestock farm animals working animals,Animal
+92,/m/0239kh,Cowbell,Cattle bovinae,Livestock farm animals working animals,Animal
+93,/m/068zj,Pig,Pig,Livestock farm animals working animals,Animal
+94,/t/dd00018,Oink,Pig,Livestock farm animals working animals,Animal
+95,/m/03fwl,Goat,Goat,Livestock farm animals working animals,Animal
+96,/m/07q0h5t,Bleat,Goat,Livestock farm animals working animals,Animal
+97,/m/07bgp,Sheep,Sheep,Livestock farm animals working animals,Animal
+98,/m/025rv6n,Fowl,Fowl,Livestock farm animals working animals,Animal
+99,/m/09b5t,Chicken rooster,Chicken rooster,Livestock farm animals working animals,Animal
+100,/m/07st89h,Cluck,Chicken rooster,Livestock farm animals working animals,Animal
+101,/m/07qn5dc,Crowing cock-a-doodle-doo,Chicken rooster,Livestock farm animals working animals,Animal
+102,/m/01rd7k,Turkey,Turkey,Livestock farm animals working animals,Animal
+103,/m/07svc2k,Gobble,Turkey,Livestock farm animals working animals,Animal
+104,/m/09ddx,Duck,Duck,Livestock farm animals working animals,Animal
+105,/m/07qdb04,Quack,Duck,Livestock farm animals working animals,Animal
+106,/m/0dbvp,Goose,Goose,Livestock farm animals working animals,Animal
+107,/m/07qwf61,Honk,Goose,Livestock farm animals working animals,Animal
 108,/m/01280g,Wild animals,Wild animals,Wild animals,Animal
-109,/m/0cdnk,"Roaring cats (lions, tigers)","Roaring cats (lions, tigers)",Wild animals,Animal
-110,/m/04cvmfc,Roar,"Roaring cats (lions, tigers)",Wild animals,Animal
+109,/m/0cdnk,Roaring cats (lions tigers),Roaring cats (lions tigers),Wild animals,Animal
+110,/m/04cvmfc,Roar,Roaring cats (lions tigers),Wild animals,Animal
 111,/m/015p6,Bird,Bird,Wild animals,Animal
-112,/m/020bb7,"Bird vocalization, bird call, bird song","Bird vocalization, bird call, bird song",Wild animals,Animal
-113,/m/07pggtn,"Chirp, tweet","Bird vocalization, bird call, bird song",Wild animals,Animal
-114,/m/07sx8x_,Squawk,"Bird vocalization, bird call, bird song",Wild animals,Animal
-115,/m/0h0rv,"Pigeon, dove","Pigeon, dove",Wild animals,Animal
-116,/m/07r_25d,Coo,"Pigeon, dove",Wild animals,Animal
+112,/m/020bb7,Bird vocalization bird call bird song,Bird vocalization bird call bird song,Wild animals,Animal
+113,/m/07pggtn,Chirp tweet,Bird vocalization bird call bird song,Wild animals,Animal
+114,/m/07sx8x_,Squawk,Bird vocalization bird call bird song,Wild animals,Animal
+115,/m/0h0rv,Pigeon dove,Pigeon dove,Wild animals,Animal
+116,/m/07r_25d,Coo,Pigeon dove,Wild animals,Animal
 117,/m/04s8yn,Crow,Crow,Wild animals,Animal
 118,/m/07r5c2p,Caw,Crow,Wild animals,Animal
 119,/m/09d5_,Owl,Owl,Wild animals,Animal
 120,/m/07r_80w,Hoot,Owl,Wild animals,Animal
-121,/m/05_wcq,"Bird flight, flapping wings","Bird flight, flapping wings",Wild animals,Animal
-122,/m/01z5f,"Canidae, dogs, wolves","Canidae, dogs, wolves",Wild animals,Animal
-123,/m/06hps,"Rodents, rats, mice","Rodents, rats, mice",Wild animals,Animal
+121,/m/05_wcq,Bird flight flapping wings,Bird flight flapping wings,Wild animals,Animal
+122,/m/01z5f,Canidae dogs wolves,Canidae dogs wolves,Wild animals,Animal
+123,/m/06hps,Rodents rats mice,Rodents rats mice,Wild animals,Animal
 124,/m/04rmv,Mouse,Mouse,Wild animals,Animal
-125,/m/07r4gkf,Patter,"Rodents, rats, mice",Wild animals,Animal
+125,/m/07r4gkf,Patter,Rodents rats mice,Wild animals,Animal
 126,/m/03vt0,Insect,Insect,Wild animals,Animal
 127,/m/09xqv,Cricket,Insect,Wild animals,Animal
 128,/m/09f96,Mosquito,Insect,Wild animals,Animal
-129,/m/0h2mp,"Fly, housefly",Insect,Wild animals,Animal
+129,/m/0h2mp,Fly housefly,Insect,Wild animals,Animal
 130,/m/07pjwq1,Buzz,Insect,Wild animals,Animal
-131,/m/01h3n,"Bee, wasp, etc.",Insect,Wild animals,Animal
+131,/m/01h3n,Bee wasp etc.,Insect,Wild animals,Animal
 132,/m/09ld4,Frog,Frog,Wild animals,Animal
 133,/m/07st88b,Croak,Frog,Wild animals,Animal
 134,/m/078jl,Snake,Snake,Wild animals,Animal
@@ -143,7 +143,7 @@ index,mid,display_name,class_3,class_2,class_1
 141,/m/02sgy,Electric guitar,TBD,Musical instrument,Music
 142,/m/018vs,Bass guitar,TBD,Musical instrument,Music
 143,/m/042v_gx,Acoustic guitar,TBD,Musical instrument,Music
-144,/m/06w87,"Steel guitar, slide guitar",TBD,Musical instrument,Music
+144,/m/06w87,Steel guitar slide guitar,TBD,Musical instrument,Music
 145,/m/01glhc,Tapping (guitar technique),TBD,Musical instrument,Music
 146,/m/07s0s5r,Strum,TBD,Musical instrument,Music
 147,/m/018j2,Banjo,TBD,Musical instrument,Music
@@ -179,7 +179,7 @@ index,mid,display_name,class_3,class_2,class_1
 177,/m/0mbct,Gong,TBD,Musical instrument,Music
 178,/m/016622,Tubular bells,TBD,Musical instrument,Music
 179,/m/0j45pbj,Mallet percussion,TBD,Musical instrument,Music
-180,/m/0dwsp,"Marimba, xylophone",TBD,Musical instrument,Music
+180,/m/0dwsp,Marimba xylophone,TBD,Musical instrument,Music
 181,/m/0dwtp,Glockenspiel,TBD,Musical instrument,Music
 182,/m/0dwt5,Vibraphone,TBD,Musical instrument,Music
 183,/m/0l156b,Steelpan,TBD,Musical instrument,Music
@@ -190,11 +190,11 @@ index,mid,display_name,class_3,class_2,class_1
 188,/m/07c6l,Trombone,TBD,Musical instrument,Music
 189,/m/0l14_3,Bowed string instrument,TBD,Musical instrument,Music
 190,/m/02qmj0d,String section,TBD,Musical instrument,Music
-191,/m/07y_7,"Violin, fiddle",TBD,Musical instrument,Music
+191,/m/07y_7,Violin fiddle,TBD,Musical instrument,Music
 192,/m/0d8_n,Pizzicato,TBD,Musical instrument,Music
 193,/m/01xqw,Cello,TBD,Musical instrument,Music
 194,/m/02fsn,Double bass,TBD,Musical instrument,Music
-195,/m/085jw,"Wind instrument, woodwind instrument",TBD,Musical instrument,Music
+195,/m/085jw,Wind instrument woodwind instrument,TBD,Musical instrument,Music
 196,/m/0l14j_,Flute,TBD,Musical instrument,Music
 197,/m/06ncr,Saxophone,TBD,Musical instrument,Music
 198,/m/01wy6,Clarinet,TBD,Musical instrument,Music
@@ -294,57 +294,57 @@ index,mid,display_name,class_3,class_2,class_1
 292,/m/0j6m2,Stream,TBD,Water,Natural Sounds
 293,/m/0j2kx,Waterfall,TBD,Water,Natural Sounds
 294,/m/05kq4,Ocean,TBD,Water,Natural Sounds
-295,/m/034srq,"Waves, surf",TBD,Water,Natural Sounds
+295,/m/034srq,Waves surf,TBD,Water,Natural Sounds
 296,/m/06wzb,Steam,TBD,Water,Natural Sounds
 297,/m/07swgks,Gurgling,TBD,Water,Natural Sounds
 298,/m/02_41,Fire,TBD,Fire,Natural Sounds
 299,/m/07pzfmf,Crackle,TBD,Fire,Natural Sounds
 300,/m/07yv9,Vehicle,TBD,Vehicle,Sounds of things
-301,/m/019jd,"Boat, Water vehicle",TBD,Vehicle,Sounds of things
-302,/m/0hsrw,"Sailboat, sailing ship",TBD,Vehicle,Sounds of things
-303,/m/056ks2,"Rowboat, canoe, kayak",TBD,Vehicle,Sounds of things
-304,/m/02rlv9,"Motorboat, speedboat",TBD,Vehicle,Sounds of things
+301,/m/019jd,Boat Water vehicle,TBD,Vehicle,Sounds of things
+302,/m/0hsrw,Sailboat sailing ship,TBD,Vehicle,Sounds of things
+303,/m/056ks2,Rowboat canoe kayak,TBD,Vehicle,Sounds of things
+304,/m/02rlv9,Motorboat speedboat,TBD,Vehicle,Sounds of things
 305,/m/06q74,Ship,TBD,Vehicle,Sounds of things
 306,/m/012f08,Motor vehicle (road),TBD,Vehicle,Sounds of things
 307,/m/0k4j,Car,TBD,Vehicle,Sounds of things
-308,/m/0912c9,"Vehicle horn, car horn, honking",TBD,Vehicle,Sounds of things
+308,/m/0912c9,Vehicle horn car horn honking,TBD,Vehicle,Sounds of things
 309,/m/07qv_d5,Toot,TBD,Vehicle,Sounds of things
 310,/m/02mfyn,Car alarm,TBD,Vehicle,Sounds of things
-311,/m/04gxbd,"Power windows, electric windows",TBD,Vehicle,Sounds of things
+311,/m/04gxbd,Power windows electric windows,TBD,Vehicle,Sounds of things
 312,/m/07rknqz,Skidding,TBD,Vehicle,Sounds of things
 313,/m/0h9mv,Tire squeal,TBD,Vehicle,Sounds of things
 314,/t/dd00134,Car passing by,TBD,Vehicle,Sounds of things
-315,/m/0ltv,"Race car, auto racing",TBD,Vehicle,Sounds of things
+315,/m/0ltv,Race car auto racing,TBD,Vehicle,Sounds of things
 316,/m/07r04,Truck,TBD,Vehicle,Sounds of things
 317,/m/0gvgw0,Air brake,TBD,Vehicle,Sounds of things
-318,/m/05x_td,"Air horn, truck horn",TBD,Vehicle,Sounds of things
+318,/m/05x_td,Air horn truck horn,TBD,Vehicle,Sounds of things
 319,/m/02rhddq,Reversing beeps,TBD,Vehicle,Sounds of things
-320,/m/03cl9h,"Ice cream truck, ice cream van",TBD,Vehicle,Sounds of things
+320,/m/03cl9h,Ice cream truck ice cream van,TBD,Vehicle,Sounds of things
 321,/m/01bjv,Bus,TBD,Vehicle,Sounds of things
 322,/m/03j1ly,Emergency vehicle,TBD,Vehicle,Sounds of things
 323,/m/04qvtq,Police car (siren),TBD,Vehicle,Sounds of things
 324,/m/012n7d,Ambulance (siren),TBD,Vehicle,Sounds of things
-325,/m/012ndj,"Fire engine, fire truck (siren)",TBD,Vehicle,Sounds of things
+325,/m/012ndj,Fire engine fire truck (siren),TBD,Vehicle,Sounds of things
 326,/m/04_sv,Motorcycle,TBD,Vehicle,Sounds of things
-327,/m/0btp2,"Traffic noise, roadway noise",TBD,Vehicle,Sounds of things
+327,/m/0btp2,Traffic noise roadway noise,TBD,Vehicle,Sounds of things
 328,/m/06d_3,Rail transport,TBD,Vehicle,Sounds of things
 329,/m/07jdr,Train,TBD,Vehicle,Sounds of things
 330,/m/04zmvq,Train whistle,TBD,Vehicle,Sounds of things
 331,/m/0284vy3,Train horn,TBD,Vehicle,Sounds of things
-332,/m/01g50p,"Railroad car, train wagon",TBD,Vehicle,Sounds of things
+332,/m/01g50p,Railroad car train wagon,TBD,Vehicle,Sounds of things
 333,/t/dd00048,Train wheels squealing,TBD,Vehicle,Sounds of things
-334,/m/0195fx,"Subway, metro, underground",TBD,Vehicle,Sounds of things
+334,/m/0195fx,Subway metro underground,TBD,Vehicle,Sounds of things
 335,/m/0k5j,Aircraft,TBD,Vehicle,Sounds of things
 336,/m/014yck,Aircraft engine,TBD,Vehicle,Sounds of things
 337,/m/04229,Jet engine,TBD,Vehicle,Sounds of things
-338,/m/02l6bg,"Propeller, airscrew",TBD,Vehicle,Sounds of things
+338,/m/02l6bg,Propeller airscrew,TBD,Vehicle,Sounds of things
 339,/m/09ct_,Helicopter,TBD,Vehicle,Sounds of things
-340,/m/0cmf2,"Fixed-wing aircraft, airplane",TBD,Vehicle,Sounds of things
+340,/m/0cmf2,Fixed-wing aircraft airplane,TBD,Vehicle,Sounds of things
 341,/m/0199g,Bicycle,TBD,Vehicle,Sounds of things
 342,/m/06_fw,Skateboard,TBD,Vehicle,Sounds of things
 343,/m/02mk9,Engine,TBD,Engine,Sounds of things
 344,/t/dd00065,Light engine (high frequency),TBD,Engine,Sounds of things
-345,/m/08j51y,"Dental drill, dentist's drill",TBD,Engine,Sounds of things
+345,/m/08j51y,Dental drill dentist's drill,TBD,Engine,Sounds of things
 346,/m/01yg9g,Lawn mower,TBD,Engine,Sounds of things
 347,/m/01j4z9,Chainsaw,TBD,Engine,Sounds of things
 348,/t/dd00066,Medium engine (mid frequency),TBD,Engine,Sounds of things
@@ -352,59 +352,59 @@ index,mid,display_name,class_3,class_2,class_1
 350,/m/01h82_,Engine knocking,TBD,Engine,Sounds of things
 351,/t/dd00130,Engine starting,TBD,Engine,Sounds of things
 352,/m/07pb8fc,Idling,TBD,Engine,Sounds of things
-353,/m/07q2z82,"Accelerating, revving, vroom",TBD,Engine,Sounds of things
-354,/m/02dgv,Door,TBD,"Domestic sounds, home sounds",Sounds of things
-355,/m/03wwcy,Doorbell,TBD,"Domestic sounds, home sounds",Sounds of things
-356,/m/07r67yg,Ding-dong,TBD,"Domestic sounds, home sounds",Sounds of things
-357,/m/02y_763,Sliding door,TBD,"Domestic sounds, home sounds",Sounds of things
-358,/m/07rjzl8,Slam,TBD,"Domestic sounds, home sounds",Sounds of things
-359,/m/07r4wb8,Knock,TBD,"Domestic sounds, home sounds",Sounds of things
-360,/m/07qcpgn,Tap,TBD,"Domestic sounds, home sounds",Sounds of things
-361,/m/07q6cd_,Squeak,TBD,"Domestic sounds, home sounds",Sounds of things
-362,/m/0642b4,Cupboard open or close,TBD,"Domestic sounds, home sounds",Sounds of things
-363,/m/0fqfqc,Drawer open or close,TBD,"Domestic sounds, home sounds",Sounds of things
-364,/m/04brg2,"Dishes, pots, and pans",TBD,"Domestic sounds, home sounds",Sounds of things
-365,/m/023pjk,"Cutlery, silverware",TBD,"Domestic sounds, home sounds",Sounds of things
-366,/m/07pn_8q,Chopping (food),TBD,"Domestic sounds, home sounds",Sounds of things
-367,/m/0dxrf,Frying (food),TBD,"Domestic sounds, home sounds",Sounds of things
-368,/m/0fx9l,Microwave oven,TBD,"Domestic sounds, home sounds",Sounds of things
-369,/m/02pjr4,Blender,TBD,"Domestic sounds, home sounds",Sounds of things
-370,/m/02jz0l,"Water tap, faucet",TBD,"Domestic sounds, home sounds",Sounds of things
-371,/m/0130jx,Sink (filling or washing),TBD,"Domestic sounds, home sounds",Sounds of things
-372,/m/03dnzn,Bathtub (filling or washing),TBD,"Domestic sounds, home sounds",Sounds of things
-373,/m/03wvsk,Hair dryer,TBD,"Domestic sounds, home sounds",Sounds of things
-374,/m/01jt3m,Toilet flush,TBD,"Domestic sounds, home sounds",Sounds of things
-375,/m/012xff,Toothbrush,TBD,"Domestic sounds, home sounds",Sounds of things
-376,/m/04fgwm,Electric toothbrush,TBD,"Domestic sounds, home sounds",Sounds of things
-377,/m/0d31p,Vacuum cleaner,TBD,"Domestic sounds, home sounds",Sounds of things
-378,/m/01s0vc,Zipper (clothing),TBD,"Domestic sounds, home sounds",Sounds of things
-379,/m/03v3yw,Keys jangling,TBD,"Domestic sounds, home sounds",Sounds of things
-380,/m/0242l,Coin (dropping),TBD,"Domestic sounds, home sounds",Sounds of things
-381,/m/01lsmm,Scissors,TBD,"Domestic sounds, home sounds",Sounds of things
-382,/m/02g901,"Electric shaver, electric razor",TBD,"Domestic sounds, home sounds",Sounds of things
-383,/m/05rj2,Shuffling cards,TBD,"Domestic sounds, home sounds",Sounds of things
-384,/m/0316dw,Typing,TBD,"Domestic sounds, home sounds",Sounds of things
-385,/m/0c2wf,Typewriter,TBD,"Domestic sounds, home sounds",Sounds of things
-386,/m/01m2v,Computer keyboard,TBD,"Domestic sounds, home sounds",Sounds of things
-387,/m/081rb,Writing,TBD,"Domestic sounds, home sounds",Sounds of things
+353,/m/07q2z82,Accelerating revving vroom,TBD,Engine,Sounds of things
+354,/m/02dgv,Door,TBD,Domestic sounds home sounds,Sounds of things
+355,/m/03wwcy,Doorbell,TBD,Domestic sounds home sounds,Sounds of things
+356,/m/07r67yg,Ding-dong,TBD,Domestic sounds home sounds,Sounds of things
+357,/m/02y_763,Sliding door,TBD,Domestic sounds home sounds,Sounds of things
+358,/m/07rjzl8,Slam,TBD,Domestic sounds home sounds,Sounds of things
+359,/m/07r4wb8,Knock,TBD,Domestic sounds home sounds,Sounds of things
+360,/m/07qcpgn,Tap,TBD,Domestic sounds home sounds,Sounds of things
+361,/m/07q6cd_,Squeak,TBD,Domestic sounds home sounds,Sounds of things
+362,/m/0642b4,Cupboard open or close,TBD,Domestic sounds home sounds,Sounds of things
+363,/m/0fqfqc,Drawer open or close,TBD,Domestic sounds home sounds,Sounds of things
+364,/m/04brg2,Dishes pots and pans,TBD,Domestic sounds home sounds,Sounds of things
+365,/m/023pjk,Cutlery silverware,TBD,Domestic sounds home sounds,Sounds of things
+366,/m/07pn_8q,Chopping (food),TBD,Domestic sounds home sounds,Sounds of things
+367,/m/0dxrf,Frying (food),TBD,Domestic sounds home sounds,Sounds of things
+368,/m/0fx9l,Microwave oven,TBD,Domestic sounds home sounds,Sounds of things
+369,/m/02pjr4,Blender,TBD,Domestic sounds home sounds,Sounds of things
+370,/m/02jz0l,Water tap faucet,TBD,Domestic sounds home sounds,Sounds of things
+371,/m/0130jx,Sink (filling or washing),TBD,Domestic sounds home sounds,Sounds of things
+372,/m/03dnzn,Bathtub (filling or washing),TBD,Domestic sounds home sounds,Sounds of things
+373,/m/03wvsk,Hair dryer,TBD,Domestic sounds home sounds,Sounds of things
+374,/m/01jt3m,Toilet flush,TBD,Domestic sounds home sounds,Sounds of things
+375,/m/012xff,Toothbrush,TBD,Domestic sounds home sounds,Sounds of things
+376,/m/04fgwm,Electric toothbrush,TBD,Domestic sounds home sounds,Sounds of things
+377,/m/0d31p,Vacuum cleaner,TBD,Domestic sounds home sounds,Sounds of things
+378,/m/01s0vc,Zipper (clothing),TBD,Domestic sounds home sounds,Sounds of things
+379,/m/03v3yw,Keys jangling,TBD,Domestic sounds home sounds,Sounds of things
+380,/m/0242l,Coin (dropping),TBD,Domestic sounds home sounds,Sounds of things
+381,/m/01lsmm,Scissors,TBD,Domestic sounds home sounds,Sounds of things
+382,/m/02g901,Electric shaver electric razor,TBD,Domestic sounds home sounds,Sounds of things
+383,/m/05rj2,Shuffling cards,TBD,Domestic sounds home sounds,Sounds of things
+384,/m/0316dw,Typing,TBD,Domestic sounds home sounds,Sounds of things
+385,/m/0c2wf,Typewriter,TBD,Domestic sounds home sounds,Sounds of things
+386,/m/01m2v,Computer keyboard,TBD,Domestic sounds home sounds,Sounds of things
+387,/m/081rb,Writing,TBD,Domestic sounds home sounds,Sounds of things
 388,/m/07pp_mv,Alarm,TBD,Alarm,Sounds of things
 389,/m/07cx4,Telephone,TBD,Alarm,Sounds of things
 390,/m/07pp8cl,Telephone bell ringing,TBD,Alarm,Sounds of things
 391,/m/01hnzm,Ringtone,TBD,Alarm,Sounds of things
-392,/m/02c8p,"Telephone dialing, DTMF",TBD,Alarm,Sounds of things
+392,/m/02c8p,Telephone dialing DTMF,TBD,Alarm,Sounds of things
 393,/m/015jpf,Dial tone,TBD,Alarm,Sounds of things
 394,/m/01z47d,Busy signal,TBD,Alarm,Sounds of things
 395,/m/046dlr,Alarm clock,TBD,Alarm,Sounds of things
 396,/m/03kmc9,Siren,TBD,Alarm,Sounds of things
 397,/m/0dgbq,Civil defense siren,TBD,Alarm,Sounds of things
 398,/m/030rvx,Buzzer,TBD,Alarm,Sounds of things
-399,/m/01y3hg,"Smoke detector, smoke alarm",TBD,Alarm,Sounds of things
+399,/m/01y3hg,Smoke detector smoke alarm,TBD,Alarm,Sounds of things
 400,/m/0c3f7m,Fire alarm,TBD,Alarm,Sounds of things
 401,/m/04fq5q,Foghorn,TBD,Alarm,Sounds of things
 402,/m/0l156k,Whistle,TBD,Alarm,Sounds of things
 403,/m/06hck5,Steam whistle,TBD,Alarm,Sounds of things
 404,/t/dd00077,Mechanisms,TBD,Mechanisms,Sounds of things
-405,/m/02bm9n,"Ratchet, pawl",TBD,Mechanisms,Sounds of things
+405,/m/02bm9n,Ratchet pawl,TBD,Mechanisms,Sounds of things
 406,/m/01x3z,Clock,TBD,Mechanisms,Sounds of things
 407,/m/07qjznt,Tick,TBD,Mechanisms,Sounds of things
 408,/m/07qjznl,Tick-tock,TBD,Mechanisms,Sounds of things
@@ -426,14 +426,14 @@ index,mid,display_name,class_3,class_2,class_1
 424,/m/0_ksk,Power tool,TBD,Tools,Sounds of things
 425,/m/01d380,Drill,TBD,Tools,Sounds of things
 426,/m/014zdl,Explosion,TBD,Explosion,Sounds of things
-427,/m/032s66,"Gunshot, gunfire",TBD,Explosion,Sounds of things
+427,/m/032s66,Gunshot gunfire,TBD,Explosion,Sounds of things
 428,/m/04zjc,Machine gun,TBD,Explosion,Sounds of things
 429,/m/02z32qm,Fusillade,TBD,Explosion,Sounds of things
 430,/m/0_1c,Artillery fire,TBD,Explosion,Sounds of things
 431,/m/073cg4,Cap gun,TBD,Explosion,Sounds of things
 432,/m/0g6b5,Fireworks,TBD,Explosion,Sounds of things
 433,/g/122z_qxw,Firecracker,TBD,Explosion,Sounds of things
-434,/m/07qsvvw,"Burst, pop",TBD,Explosion,Sounds of things
+434,/m/07qsvvw,Burst pop,TBD,Explosion,Sounds of things
 435,/m/07pxg6y,Eruption,TBD,Explosion,Sounds of things
 436,/m/07qqyl4,Boom,TBD,Explosion,Sounds of things
 437,/m/083vt,Wood,TBD,Wood,Sounds of things
@@ -441,15 +441,15 @@ index,mid,display_name,class_3,class_2,class_1
 439,/m/07pl1bw,Splinter,TBD,Wood,Sounds of things
 440,/m/07qs1cx,Crack,TBD,Wood,Sounds of things
 441,/m/039jq,Glass,TBD,Glass,Sounds of things
-442,/m/07q7njn,"Chink, clink",TBD,Glass,Sounds of things
+442,/m/07q7njn,Chink clink,TBD,Glass,Sounds of things
 443,/m/07rn7sz,Shatter,TBD,Glass,Sounds of things
 444,/m/04k94,Liquid,TBD,Liquid,Sounds of things
-445,/m/07rrlb6,"Splash, splatter",TBD,Liquid,Sounds of things
+445,/m/07rrlb6,Splash splatter,TBD,Liquid,Sounds of things
 446,/m/07p6mqd,Slosh,TBD,Liquid,Sounds of things
 447,/m/07qlwh6,Squish,TBD,Liquid,Sounds of things
 448,/m/07r5v4s,Drip,TBD,Liquid,Sounds of things
 449,/m/07prgkl,Pour,TBD,Liquid,Sounds of things
-450,/m/07pqc89,"Trickle, dribble",TBD,Liquid,Sounds of things
+450,/m/07pqc89,Trickle dribble,TBD,Liquid,Sounds of things
 451,/t/dd00088,Gush,TBD,Liquid,Sounds of things
 452,/m/07p7b8y,Fill (with liquid),TBD,Liquid,Sounds of things
 453,/m/07qlf79,Spray,TBD,Liquid,Sounds of things
@@ -458,17 +458,17 @@ index,mid,display_name,class_3,class_2,class_1
 456,/m/0dv3j,Boiling,TBD,Liquid,Sounds of things
 457,/m/0790c,Sonar,TBD,Miscellaneous sources,Sounds of things
 458,/m/0dl83,Arrow,TBD,Miscellaneous sources,Sounds of things
-459,/m/07rqsjt,"Whoosh, swoosh, swish",TBD,Miscellaneous sources,Sounds of things
-460,/m/07qnq_y,"Thump, thud",TBD,Miscellaneous sources,Sounds of things
+459,/m/07rqsjt,Whoosh swoosh swish,TBD,Miscellaneous sources,Sounds of things
+460,/m/07qnq_y,Thump thud,TBD,Miscellaneous sources,Sounds of things
 461,/m/07rrh0c,Thunk,TBD,Miscellaneous sources,Sounds of things
 462,/m/0b_fwt,Electronic tuner,TBD,Miscellaneous sources,Sounds of things
 463,/m/02rr_,Effects unit,TBD,Miscellaneous sources,Sounds of things
 464,/m/07m2kt,Chorus effect,TBD,Miscellaneous sources,Sounds of things
 465,/m/018w8,Basketball bounce,TBD,Specific impact sounds,Sounds of things
 466,/m/07pws3f,Bang,TBD,Generic impact sounds,Source-ambiguous sounds
-467,/m/07ryjzk,"Slap, smack",TBD,Generic impact sounds,Source-ambiguous sounds
-468,/m/07rdhzs,"Whack, thwack",TBD,Generic impact sounds,Source-ambiguous sounds
-469,/m/07pjjrj,"Smash, crash",TBD,Generic impact sounds,Source-ambiguous sounds
+467,/m/07ryjzk,Slap smack,TBD,Generic impact sounds,Source-ambiguous sounds
+468,/m/07rdhzs,Whack thwack,TBD,Generic impact sounds,Source-ambiguous sounds
+469,/m/07pjjrj,Smash crash,TBD,Generic impact sounds,Source-ambiguous sounds
 470,/m/07pc8lb,Breaking,TBD,Generic impact sounds,Source-ambiguous sounds
 471,/m/07pqn27,Bouncing,TBD,Generic impact sounds,Source-ambiguous sounds
 472,/m/07rbp7_,Whip,TBD,Generic impact sounds,Source-ambiguous sounds
@@ -478,9 +478,9 @@ index,mid,display_name,class_3,class_2,class_1
 476,/m/07pdjhy,Rub,TBD,Generic impact sounds,Source-ambiguous sounds
 477,/m/07s8j8t,Roll,TBD,Generic impact sounds,Source-ambiguous sounds
 478,/m/07plct2,Crushing,TBD,Deformable shell,Source-ambiguous sounds
-479,/t/dd00112,"Crumpling, crinkling",TBD,Deformable shell,Source-ambiguous sounds
+479,/t/dd00112,Crumpling crinkling,TBD,Deformable shell,Source-ambiguous sounds
 480,/m/07qcx4z,Tearing,TBD,Deformable shell,Source-ambiguous sounds
-481,/m/02fs_r,"Beep, bleep",TBD,Onomatopoeia,Source-ambiguous sounds
+481,/m/02fs_r,Beep bleep,TBD,Onomatopoeia,Source-ambiguous sounds
 482,/m/07qwdck,Ping,TBD,Onomatopoeia,Source-ambiguous sounds
 483,/m/07phxs1,Ding,TBD,Onomatopoeia,Source-ambiguous sounds
 484,/m/07rv4dm,Clang,TBD,Onomatopoeia,Source-ambiguous sounds
@@ -494,7 +494,7 @@ index,mid,display_name,class_3,class_2,class_1
 492,/m/07rwm0c,Clickety-clack,TBD,Onomatopoeia,Source-ambiguous sounds
 493,/m/07phhsh,Rumble,TBD,Onomatopoeia,Source-ambiguous sounds
 494,/m/07qyrcz,Plop,TBD,Onomatopoeia,Source-ambiguous sounds
-495,/m/07qfgpx,"Jingle, tinkle",TBD,Onomatopoeia,Source-ambiguous sounds
+495,/m/07qfgpx,Jingle tinkle,TBD,Onomatopoeia,Source-ambiguous sounds
 496,/m/07rcgpl,Hum,TBD,Onomatopoeia,Source-ambiguous sounds
 497,/m/07p78v5,Zing,TBD,Onomatopoeia,Source-ambiguous sounds
 498,/t/dd00121,Boing,TBD,Onomatopoeia,Source-ambiguous sounds
@@ -505,24 +505,24 @@ index,mid,display_name,class_3,class_2,class_1
 503,/m/0hdsk,Chirp tone,TBD,Other sourceless,Source-ambiguous sounds
 504,/m/0c1dj,Sound effect,TBD,Other sourceless,Source-ambiguous sounds
 505,/m/07pt_g0,Pulse,TBD,Other sourceless,Source-ambiguous sounds
-506,/t/dd00125,"Inside, small room",TBD,Acoustic environment,"Channel, environment and background"
-507,/t/dd00126,"Inside, large room or hall",TBD,Acoustic environment,"Channel, environment and background"
-508,/t/dd00127,"Inside, public space",TBD,Acoustic environment,"Channel, environment and background"
-509,/t/dd00128,"Outside, urban or manmade",TBD,Acoustic environment,"Channel, environment and background"
-510,/t/dd00129,"Outside, rural or natural",TBD,Acoustic environment,"Channel, environment and background"
-511,/m/01b9nn,Reverberation,TBD,Acoustic environment,"Channel, environment and background"
-512,/m/01jnbd,Echo,TBD,Acoustic environment,"Channel, environment and background"
-513,/m/096m7z,Noise,TBD,Noise,"Channel, environment and background"
-514,/m/06_y0by,Environmental noise,TBD,Noise,"Channel, environment and background"
-515,/m/07rgkc5,Static,TBD,Noise,"Channel, environment and background"
-516,/m/06xkwv,Mains hum,TBD,Noise,"Channel, environment and background"
-517,/m/0g12c5,Distortion,TBD,Noise,"Channel, environment and background"
-518,/m/08p9q4,Sidetone,TBD,Noise,"Channel, environment and background"
-519,/m/07szfh9,Cacophony,TBD,Noise,"Channel, environment and background"
-520,/m/0chx_,White noise,TBD,Noise,"Channel, environment and background"
-521,/m/0cj0r,Pink noise,TBD,Noise,"Channel, environment and background"
-522,/m/07p_0gm,Throbbing,TBD,Noise,"Channel, environment and background"
-523,/m/01jwx6,Vibration,TBD,Noise,"Channel, environment and background"
-524,/m/07c52,Television,TBD,Sound reproduction,"Channel, environment and background"
-525,/m/06bz3,Radio,TBD,Sound reproduction,"Channel, environment and background"
-526,/m/07hvw1,Field recording,TBD,Sound reproduction,"Channel, environment and background"
+506,/t/dd00125,Inside small room,TBD,Acoustic environment,Channel environment and background
+507,/t/dd00126,Inside large room or hall,TBD,Acoustic environment,Channel environment and background
+508,/t/dd00127,Inside public space,TBD,Acoustic environment,Channel environment and background
+509,/t/dd00128,Outside urban or manmade,TBD,Acoustic environment,Channel environment and background
+510,/t/dd00129,Outside rural or natural,TBD,Acoustic environment,Channel environment and background
+511,/m/01b9nn,Reverberation,TBD,Acoustic environment,Channel environment and background
+512,/m/01jnbd,Echo,TBD,Acoustic environment,Channel environment and background
+513,/m/096m7z,Noise,TBD,Noise,Channel environment and background
+514,/m/06_y0by,Environmental noise,TBD,Noise,Channel environment and background
+515,/m/07rgkc5,Static,TBD,Noise,Channel environment and background
+516,/m/06xkwv,Mains hum,TBD,Noise,Channel environment and background
+517,/m/0g12c5,Distortion,TBD,Noise,Channel environment and background
+518,/m/08p9q4,Sidetone,TBD,Noise,Channel environment and background
+519,/m/07szfh9,Cacophony,TBD,Noise,Channel environment and background
+520,/m/0chx_,White noise,TBD,Noise,Channel environment and background
+521,/m/0cj0r,Pink noise,TBD,Noise,Channel environment and background
+522,/m/07p_0gm,Throbbing,TBD,Noise,Channel environment and background
+523,/m/01jwx6,Vibration,TBD,Noise,Channel environment and background
+524,/m/07c52,Television,TBD,Sound reproduction,Channel environment and background
+525,/m/06bz3,Radio,TBD,Sound reproduction,Channel environment and background
+526,/m/07hvw1,Field recording,TBD,Sound reproduction,Channel environment and background
