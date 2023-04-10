@@ -2,6 +2,7 @@ audioset-train-local
 data/temp_audio
 data/SAMPLESWAP
 data/musdb18/*
+data/spec_images
 notebooks/.ipynb_checkpoints
 !data/musdb18/README.md
 packages/__pycache__/
