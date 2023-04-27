@@ -11,3 +11,6 @@ __pycache__/
 spliced_video
 uploaded_video
 SS_new_classes
+models
+tmp_sliced_audio
+packages/.ipynb_checkpoints/
