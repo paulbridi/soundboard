@@ -1,10 +1,10 @@
 from moviepy.video.io.VideoFileClip import VideoFileClip
 
-def extract_audio_clip(video_path, file_name, start_time=None, end_time=None):
-    ''' Take video path, start and end times as input and output .wav audio clip to the specified path'''
+def extract_audio_clip(src_video_path, dest_path, file_name, start_time=None, end_time=None):
+    ''' Take source path, destination path, filename (no extension), start and end times as input to save .wav audio clip to the specified path'''
        
     # Load the video file
-    video_clip = VideoFileClip(video_path)
+    video_clip = VideoFileClip(src_video_path)
 
     # Set the start and end times
     start_time = start_time or 0
@@ -14,8 +14,9 @@ def extract_audio_clip(video_path, file_name, start_time=None, end_time=None):
     audio_clip = video_clip.subclip(start_time, end_time).audio
 
     # Write the audio to a WAV file
-    audio_clip.write_audiofile('../tmp_sliced_audio/'+ file_name)
+    audio_clip.write_audiofile(dest_path + file_name + '.wav')
 
     # Close the video and audio clips
     video_clip.close()
     audio_clip.close()
+
