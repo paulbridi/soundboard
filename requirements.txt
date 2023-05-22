@@ -5,7 +5,6 @@ pytube
 moviepy
 flask
 flask-cors
-os
 google-cloud-storage
 google-cloud
 ipython
@@ -14,6 +13,3 @@ librosa
 soundfile
 scikit-learn
 matplotlib
-soundfile
-python-math
-pathlib
