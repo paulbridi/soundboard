@@ -4,6 +4,7 @@ data/SAMPLESWAP
 data/musdb18/*
 data/spec_images
 data/spec_images_instruments
+data/ss_instr_model_training
 notebooks/.ipynb_checkpoints
 !data/musdb18/README.md
 packages/__pycache__/
